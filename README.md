@@ -29,3 +29,7 @@ To run this project, ensure you have:
 Installed KDB+/q
 
 A working command-line interface or a Jupyter Notebook with q integration
+
+Alternatively you can go on this website and launch the sandbox environment. You will need to create an account and start the course before accessing the sandbox environment.
+
+Link to the sandbox environment: "https://learninghub.kx.com/courses/kdb-developer-level-1/lessons/course-introduction/"
