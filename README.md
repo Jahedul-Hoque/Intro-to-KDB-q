@@ -32,4 +32,4 @@ KDB+/q is a powerful database system designed for high-speed data ingestion, pro
 
 - Alternatively you can go on this website and launch the sandbox environment. You will need to create an account and start the course before accessing the sandbox environment.
 
-Link to the sandbox environment: "https://learninghub.kx.com/courses/kdb-developer-level-1/lessons/course-introduction/"
+Link to the sandbox environment: https://learninghub.kx.com/courses/kdb-developer-level-1/lessons/course-introduction/
